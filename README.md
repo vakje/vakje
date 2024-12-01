@@ -1,5 +1,5 @@
 ## 🌟 About Me
-- 👋 Hi, I’m @vako
+- 👋 Hi, I’m vako
 - 👀 studying computer science at TSU 
 - 👀 I’m interested in game development
 - 🌱 I’m currently interested in OpenGL
