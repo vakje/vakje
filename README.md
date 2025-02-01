@@ -1,6 +1,6 @@
 ## 🌟 About Me
 - 👋 Hi, I’m vako
-- 👀 studying computer science at TSU 
+- 👀 studying computer science at TSU(Tbilisi state university) 
 - 👀 I’m interested in game development
 - 🌱 I’m currently interested in OpenGL
 
