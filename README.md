@@ -15,7 +15,7 @@
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 
 ## 📫 How to Reach Me
-man263170@gmail.com
+valikobughadze@gmail.com
 
 
 <!---
