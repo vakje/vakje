@@ -1,6 +1,6 @@
 ## 🌟 About Me
 - 👋 Hi, I’m vako
-- 👀 studying computer science at TSU(Tbilisi state university) 
+- 🎓 studying computer science at TSU(Tbilisi state university) 
 - 👀 I'm focused on software development, with interests in both game development and web technologies.
 - 🌱 Currently building skills in OpenGL for graphics programming and exploring ASP.NET and JavaScript for full-stack web development.
 
@@ -14,7 +14,7 @@
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?logo=sqlite&logoColor=white)
-- Frameworks: ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=opengl&logoColor=white)
+- Libraries/Frameworks: ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=opengl&logoColor=white),![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white), ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoftsqlserver&logoColor=white),![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ## 📫 How to Reach Me
