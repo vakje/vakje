@@ -13,6 +13,7 @@
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?logo=sqlite&logoColor=white)
 - Frameworks: ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=opengl&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white), ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoftsqlserver&logoColor=white),![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
