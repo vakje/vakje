@@ -4,7 +4,7 @@
  #### Currently building skills in OpenGL for graphics programming and exploring ASP.NET and JavaScript for full-stack web development.
 
 
-## 🛠 My Tech Stack
+## My Tech Stack
 - Languages: ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
