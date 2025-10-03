@@ -1,7 +1,7 @@
 # About Me
- #### Hi, I’m vako studying computer science at TSU(Tbilisi state university) 
- #### I'm focused on software development, with interests in both game development and web technologies.
- #### Currently building skills in OpenGL for graphics programming and exploring ASP.NET and JavaScript for full-stack web development.
+ ### Hi, I’m vako studying computer science at TSU(Tbilisi state university) 
+ ### I'm focused on software development, with interests in both game development and web technologies.
+ ### Currently building skills in OpenGL for graphics programming and exploring ASP.NET and JavaScript for full-stack web development.
 
 
 ## My Tech Stack
