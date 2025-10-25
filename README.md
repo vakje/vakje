@@ -1,7 +1,6 @@
 # About Me
   Hi, I’m vako studying computer science at TSU(Tbilisi state university) 
-  I'm focused on software development, with interests in game development.
-  Currently building skills in OpenGL for graphics programming.
+  I'm focused on software development, Currently building engine in OpenGL.
 
 
 ## My Tech Stack
