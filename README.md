@@ -12,7 +12,7 @@
 
 ## Internship Experience
 
-During my internship, I had the opportunity to work on legacy code and utilize various internal tools. This experience was crucial in understanding the challenges of maintaining older codebases, as well as learning how to effectively use internal tools for automation and efficiency in our workflows. I collaborated with team members to improve code quality and streamline processes.
+During my internship at a governmental company, I gained practical experience with **PL/SQL**, working on database management and optimization projects. This experience strengthened my understanding of relational databases and query optimization, I also had the opportunity to work on internal tools. This experience was crucial in understanding the challenges of maintaining real systems, as well as learning how to effectively use internal tools for automation and efficiency in our workflows. I collaborated with team members to improve code quality and streamline processes.
 
 ##  How to Reach Me
 valikobughadze@gmail.com
