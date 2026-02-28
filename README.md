@@ -1,16 +1,17 @@
 # About Me
-  Hi, I’m vako studying computer science at TSU(Tbilisi state university) 
+  Hi, I'm vako studying computer science at TSU(Tbilisi state university) 
   I'm focused on software development, Currently building engine in OpenGL.
 
 
 ## My Tech Stack
 - Languages: ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+  ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?logo=oracle&logoColor=white)
 - Libraries/Frameworks: ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=opengl&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 
+## Experience
+During my internship at a governmental company, I gained practical experience with **PL/SQL**, working on database management and optimization projects. This experience strengthened my understanding of relational databases and query optimization.
+
 ##  How to Reach Me
 valikobughadze@gmail.com
-
-
-
