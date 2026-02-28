@@ -10,8 +10,9 @@
 - Libraries/Frameworks: ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=opengl&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 
-## Experience
-During my internship at a governmental company, I gained practical experience with **PL/SQL**, working on database management and optimization projects. This experience strengthened my understanding of relational databases and query optimization.
+## Internship Experience
+
+During my internship, I had the opportunity to work on legacy code and utilize various internal tools. This experience was crucial in understanding the challenges of maintaining older codebases, as well as learning how to effectively use internal tools for automation and efficiency in our workflows. I collaborated with team members to improve code quality and streamline processes.
 
 ##  How to Reach Me
 valikobughadze@gmail.com
