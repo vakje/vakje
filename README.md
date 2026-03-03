@@ -1,6 +1,5 @@
 # About Me
-  Hi, I'm vako studying computer science at TSU(Tbilisi state university) 
-  I'm focused on software development, Currently building engine in OpenGL.
+ I'm vako, a Computer Science student at TSU (Tbilisi State University) focused on software development. Currently building an OpenGL engine using C++ and GLFW. I have internship experience in PL/SQL database management and optimization at a governmental company, where I worked on real-world systems, internal tools, and process automation while collaborating to improve code quality.
 
 
 ## My Tech Stack
@@ -9,10 +8,6 @@
   ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?logo=oracle&logoColor=white)
 - Libraries/Frameworks: ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=opengl&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
-
-## Internship Experience
-
-During my internship at a governmental company, I gained practical experience with **PL/SQL**, working on database management and optimization projects. This experience strengthened my understanding of relational databases and query optimization, I also had the opportunity to work on internal tools. This experience was crucial in understanding the challenges of maintaining real systems, as well as learning how to effectively use internal tools for automation and efficiency in our workflows. I collaborated with team members to improve code quality and streamline processes.
 
 ##  How to Reach Me
 valikobughadze@gmail.com
