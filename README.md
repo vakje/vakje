@@ -1,6 +1,11 @@
 # About Me
- I'm vako, a Computer Science student at TSU (Tbilisi State University). Currently focused on building end-to-end applications in web and desktop appliactions. 
- I have internship experience in PL/SQL database management and optimization at a governmental company, where I worked on real-world systems, internal tools, and process automation while collaborating to improve code quality.
+ I'm vako, a Computer Science student at TSU (Tbilisi State University). currently focused on web development with C# and the .NET ecosystem.
+ I'm passionate about solving difficult/challanging problems aswell as exploring how things work under the hood.
+
+ Currently learning:
+ C# & .NET, EF core ASP.NET CORE, Dapper, SSMS
+ Hobby: 
+ Graphics programming -> learning Opengl,shader languages (GLSL,HLSL), dreaming about my own game engine. 😁
 
 ##  How to Reach Me
 valikobughadze@gmail.com
