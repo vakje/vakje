@@ -7,7 +7,7 @@
  
  
  Hobby: 
- Graphics programming -> learning Opengl,shader languages (GLSL,HLSL), dreaming about my own game engine. 😁
+ Graphics programming -> learning Opengl,shader languages (GLSL,HLSL), dreaming of building my own game engine one day. 😁
 
 ##  How to Reach Me
 valikobughadze@gmail.com
