@@ -4,6 +4,8 @@
 
  Currently learning:
  C# & .NET, EF core ASP.NET CORE, Dapper, SSMS
+ 
+ 
  Hobby: 
  Graphics programming -> learning Opengl,shader languages (GLSL,HLSL), dreaming about my own game engine. 😁
 
