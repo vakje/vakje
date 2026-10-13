@@ -3,11 +3,11 @@
  I'm passionate about solving difficult/challanging problems aswell as exploring how things work under the hood.
 
  Currently learning:
- C# & .NET, EF core ASP.NET CORE, Dapper, SSMS
+ C# & .NET At Epam campus. 😁
  
  
  Hobby: 
- Graphics programming -> learning Opengl,shader languages (GLSL,HLSL), dreaming of building my own game engine one day. 😁
+ Graphics programming -> learning Opengl,shader languages (GLSL,HLSL), dreaming of building my own game engine one day. 
 
 ##  How to Reach Me
 valikobughadze@gmail.com
